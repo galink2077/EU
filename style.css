@@ -1,0 +1,33 @@
+
+body{
+    background-image: linear-gradient(45deg,navy,orangered);
+}
+#Eu{
+    height: 400px;
+    width: 500px;
+    border-radius: 100%;
+    margin-left: 175px;
+    position: static;
+}
+h1{
+    font-family: cursive;
+    text-align: center;
+    color: white;
+}
+p{
+    font-family: cursive;
+    text-align: justify;
+    color: white; 
+    margin: 3% 30%;
+}
+strong{
+    color: lightgray;
+}
+li{
+    font-family: cursive;
+    color:white;
+    margin: 0% 30%;
+}
+#mozão{
+    color: limegreen ;
+}
